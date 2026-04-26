@@ -6,7 +6,7 @@
     "mirrors": []
   },
   "announcement": "",
-  "source_expiry_hours": 72,
+  "source_expiry_hours": 0.0003,
   "source_schema_version": 1,
   "updated_at": "2026-04-26T20:00:00Z"
 }
