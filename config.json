@@ -1,12 +1,12 @@
 {
-  "latest_version": "0.1.0",
+  "latest_version": "0.1.3",
   "min_version": "0.1.0",
   "download": {
-    "primary": "https://github.com/734496335/maggoogo-sources/releases/latest",
+    "primary": "https://github.com/734496335/maggoogo-sources/releases/download/v0.1.3/MagGoogo-v0.1.3.apk",
     "mirrors": []
   },
-  "announcement": "",
+  "announcement": "v0.1.3: 新图标、骨架屏加载、搜索取消、暗色模式优化",
   "source_expiry_hours": 72,
   "source_schema_version": 1,
-  "updated_at": "2026-04-26T15:09:15.052026+00:00"
+  "updated_at": "2026-05-01T13:59:00+08:00"
 }
