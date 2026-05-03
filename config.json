@@ -3,7 +3,7 @@
   "min_version": "0.1.0",
   "download": {
     "primary": "https://github.com/734496335/maggoogo-sources/releases/download/v0.1.8/MagGoogo-v0.1.8.apk",
-    "mirrors": []
+    "mirrors": ["https://api.naoshiquan.com/download/v0.1.8/MagGoogo-v0.1.8.apk"]
   },
   "announcement": "v0.1.8: 正式发布版（arm64优化包体积、R8混淆、资源压缩）",
   "source_expiry_hours": 72,
