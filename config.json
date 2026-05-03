@@ -2,7 +2,7 @@
   "latest_version": "0.1.8",
   "min_version": "0.1.0",
   "download": {
-    "primary": "http://192.168.5.183:9090/MagGoogo-v0.1.8.apk",
+    "primary": "https://github.com/734496335/maggoogo-sources/releases/download/v0.1.8/MagGoogo-v0.1.8.apk",
     "mirrors": []
   },
   "announcement": "v0.1.8: 正式发布版（arm64优化包体积、R8混淆、资源压缩）",
