@@ -1,12 +1,12 @@
 {
-  "latest_version": "0.1.4",
+  "latest_version": "0.1.8",
   "min_version": "0.1.0",
   "download": {
-    "primary": "https://github.com/734496335/maggoogo-sources/releases/download/v0.1.4/MagGoogo-v0.1.4.apk",
+    "primary": "http://192.168.5.183:9090/MagGoogo-v0.1.8.apk",
     "mirrors": []
   },
-  "announcement": "v0.1.4: 搜索提速（3层调度+15并发）、后台搜索保持、收藏实时同步、新品牌Slogan",
+  "announcement": "v0.1.8: 正式发布版（arm64优化包体积、R8混淆、资源压缩）",
   "source_expiry_hours": 72,
   "source_schema_version": 1,
-  "updated_at": "2026-05-01T15:10:00+08:00"
+  "updated_at": "2026-05-03T13:00:00+08:00"
 }
