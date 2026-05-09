@@ -1,16 +1,14 @@
 {
-  "latest_version": "0.1.8",
-  "min_version": "0.1.0",
+  "latest_version": "0.1.9",
+  "min_version": "0.1.9",
   "download": {
-    "primary": "https://github.com/734496335/maggoogo-sources/releases/download/v0.1.8/MagGoogo-v0.1.8.apk",
+    "primary": "https://cn.magnetgoogo.com/download/magnetgoogo.apk",
     "mirrors": [
-      "https://api.naoshiquan.com/download/v0.1.8/MagGoogo-v0.1.8.apk",
-      "https://cn.magnetgoogo.com/download/magnetgoogo.apk",
-      "https://wwbdy.lanzoue.com/iFHEh3oomsjg"
+      "https://wwbdy.lanzoue.com/iE7DD3p2mjzc"
     ]
   },
-  "announcement": "v0.1.8: 正式发布版（arm64优化包体积、R8混淆、资源压缩）\n蓝奏云密码: 8888",
+  "announcement": "v0.1.9: 源同步优化、多端点容灾\n蓝奏云密码: 8888",
   "source_expiry_hours": 72,
   "source_schema_version": 1,
-  "updated_at": "2026-05-03T13:00:00+08:00"
+  "updated_at": "2026-05-09T00:58:00+08:00"
 }
