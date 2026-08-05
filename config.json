@@ -1,14 +1,27 @@
 {
-  "latest_version": "0.1.9",
-  "min_version": "0.1.9",
+  "latest_version": "0.2.5",
+  "min_version": "0.1.10",
   "download": {
-    "primary": "https://cn.magnetgoogo.com/download/magnetgoogo.apk",
+    "primary": "https://api.naoshiquan.com/download/v0.2.5/magnetgoogo-v0.2.5.apk",
     "mirrors": [
-      "https://wwbdy.lanzoue.com/iE7DD3p2mjzc"
+      "https://wwbdy.lanzn.com/iWEhg40m9q5c",
+      "https://github.com/734496335/magnetgoogo/releases/download/v0.2.5/magnetgoogo-v0.2.5.apk"
     ]
   },
-  "announcement": "v0.1.9: 源同步优化、多端点容灾\n蓝奏云密码: 8888",
+  "announcement": "新增多平台影视评分展示。\n优化搜索性能和结果准确性。\n修复若干问题并提升稳定性；蓝奏云密码：8888。",
+  "announcement_i18n": {
+    "zh": "新增多平台影视评分展示。\n优化搜索性能和结果准确性。\n修复若干问题并提升稳定性；蓝奏云密码：8888。",
+    "en": "Added multi-source media ratings.\nImproved search performance and result accuracy.\nFixed known issues and improved stability; LanzouCloud password: 8888.",
+    "es": "Se añadieron valoraciones multimedia de varias fuentes.\nSe mejoraron el rendimiento y la precisión de la búsqueda.\nSe corrigieron problemas conocidos y se mejoró la estabilidad; contraseña de LanzouCloud: 8888.",
+    "ru": "Добавлены рейтинги медиа из нескольких источников.\nУлучшены производительность и точность поиска.\nИсправлены известные проблемы и повышена стабильность; пароль LanzouCloud: 8888.",
+    "pt": "Foram adicionadas avaliações de mídia de várias fontes.\nO desempenho e a precisão da busca foram melhorados.\nProblemas conhecidos foram corrigidos e a estabilidade foi aprimorada; senha do LanzouCloud: 8888.",
+    "ja": "複数サービスの映像評価表示を追加しました。\n検索性能と結果精度を改善しました。\n既知の問題を修正して安定性を向上しました；LanzouCloudのパスワード：8888。",
+    "ko": "여러 출처의 미디어 평점 표시를 추가했습니다.\n검색 성능과 결과 정확도를 개선했습니다.\n알려진 문제를 수정하고 안정성을 높였습니다; LanzouCloud 비밀번호: 8888.",
+    "fr": "Les notes multimédias provenant de plusieurs sources ont été ajoutées.\nLes performances et la précision de la recherche ont été améliorées.\nDes problèmes connus ont été corrigés et la stabilité améliorée ; mot de passe LanzouCloud : 8888.",
+    "de": "Medienbewertungen aus mehreren Quellen wurden hinzugefügt.\nSuchleistung und Ergebnisgenauigkeit wurden verbessert.\nBekannte Probleme wurden behoben und die Stabilität verbessert; LanzouCloud-Passwort: 8888.",
+    "ar": "تمت إضافة تقييمات الوسائط من مصادر متعددة.\nتم تحسين أداء البحث ودقة النتائج.\nتم إصلاح مشكلات معروفة وتحسين الاستقرار؛ كلمة مرور LanzouCloud: 8888."
+  },
   "source_expiry_hours": 72,
   "source_schema_version": 1,
-  "updated_at": "2026-05-09T00:58:00+08:00"
+  "updated_at": "2026-08-05T08:30:24+08:00"
 }
