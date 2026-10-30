@@ -2,10 +2,11 @@
   "latest_version": "0.2.10",
   "min_version": "0.2.5",
   "download": {
-    "primary": "https://api.naoshiquan.com/download/v0.2.10/app-release.apk",
+    "primary": "https://media.magnetgoogo.com/apk/v0.2.10/app-release.apk",
     "mirrors": [
       "https://wwbdy.lanzn.com/ixAS64e0ygwb",
       "https://magnetgoogo.com",
+      "https://api.naoshiquan.com/download/v0.2.10/app-release.apk",
       "https://github.com/734496335/magnetgoogo/releases/download/v0.2.10/app-release.apk"
     ]
   },
@@ -24,5 +25,5 @@
   },
   "source_expiry_hours": 72,
   "source_schema_version": 1,
-  "updated_at": "2026-10-30T13:16:20.335Z"
+  "updated_at": "2026-10-30T14:06:57.493Z"
 }
