@@ -1,28 +1,28 @@
 {
-  "latest_version": "0.2.9",
+  "latest_version": "0.2.10",
   "min_version": "0.2.5",
   "download": {
-    "primary": "https://api.naoshiquan.com/download/v0.2.9/app-release.apk",
+    "primary": "https://api.naoshiquan.com/download/v0.2.10/app-release.apk",
     "mirrors": [
-      "https://wwbdy.lanzn.com/iiaXL4aygo2b",
+      "https://wwbdy.lanzn.com/ixAS64e0ygwb",
       "https://magnetgoogo.com",
-      "https://github.com/734496335/magnetgoogo/releases/download/v0.2.9/app-release.apk"
+      "https://github.com/734496335/magnetgoogo/releases/download/v0.2.10/app-release.apk"
     ]
   },
-  "announcement": "优化影视资源\n修复 Bug\n蓝奏云密码：8888",
+  "announcement": "新增反馈回复\n优化反馈与导航界面\n优化搜索切页流畅度\n蓝奏云密码：8888",
   "announcement_i18n": {
-    "zh": "优化影视资源\n修复 Bug\n蓝奏云密码：8888",
-    "en": "Improved movie & TV resources\nBug fixes\nLanzouCloud password: 8888",
-    "es": "Recursos de cine y TV optimizados\nCorrección de errores\nContraseña de LanzouCloud: 8888",
-    "ru": "Улучшены ресурсы фильмов и сериалов\nИсправлены ошибки\nПароль LanzouCloud: 8888",
-    "pt": "Recursos de filmes e séries otimizados\nCorreções de bugs\nSenha do LanzouCloud: 8888",
-    "ja": "映画・ドラマのリソースを最適化\n不具合を修正\nLanzouCloudパスワード：8888",
-    "ko": "영화·TV 리소스 최적화\n버그 수정\nLanzouCloud 비밀번호: 8888",
-    "fr": "Ressources films et séries optimisées\nCorrections de bugs\nMot de passe LanzouCloud : 8888",
-    "de": "Film- und Serienressourcen optimiert\nFehlerbehebungen\nLanzouCloud-Passwort: 8888",
-    "ar": "تحسين موارد الأفلام والمسلسلات\nإصلاحات للأخطاء\nكلمة مرور LanzouCloud: 8888"
+    "zh": "新增反馈回复\n优化反馈与导航界面\n优化搜索切页流畅度\n蓝奏云密码：8888",
+    "en": "Replies to feedback\nRefined feedback and navigation UI\nSmoother search navigation\nLanzouCloud password: 8888",
+    "es": "Respuestas a tus comentarios\nInterfaz de comentarios y navegación renovada\nNavegación de búsqueda más fluida\nContraseña de LanzouCloud: 8888",
+    "ru": "Ответы на ваши отзывы\nОбновлённый интерфейс отзывов и навигации\nБолее плавная навигация при поиске\nПароль LanzouCloud: 8888",
+    "pt": "Respostas ao seu feedback\nInterface de feedback e navegação renovada\nNavegação de pesquisa mais fluida\nSenha do LanzouCloud: 8888",
+    "ja": "フィードバックへの返信に対応\nフィードバックとナビゲーション画面を改善\n検索画面の切り替えをスムーズに\nLanzouCloudパスワード：8888",
+    "ko": "피드백 답변 지원\n피드백 및 탐색 화면 개선\n더 부드러운 검색 화면 전환\nLanzouCloud 비밀번호: 8888",
+    "fr": "Réponses à vos commentaires\nInterface de commentaires et de navigation améliorée\nNavigation de recherche plus fluide\nMot de passe LanzouCloud : 8888",
+    "de": "Antworten auf Feedback\nÜberarbeitete Feedback- und Navigationsoberfläche\nFlüssigere Navigation bei der Suche\nLanzouCloud-Passwort: 8888",
+    "ar": "الرد على الملاحظات\nتحسين واجهة الملاحظات والتنقل\nتنقل أكثر سلاسة بين صفحات البحث\nكلمة مرور LanzouCloud: 8888"
   },
   "source_expiry_hours": 72,
   "source_schema_version": 1,
-  "updated_at": "2026-10-05T21:41:15+08:00"
+  "updated_at": "2026-10-30T13:16:20.335Z"
 }
